@@ -15,13 +15,13 @@ Velkomin á geymslu fyrir námskeiðið [Greiningu rása](https://ugla.hi.is/ken
 ## Kennsla í `Python` og `Sympy`
 |Titill|Notebook|
 |---|---|
-|<b><a href="ipynb/sympy.ipynb" title="Python og Sympy sýnikennsla">Kennsla í Python og Sympy</a></b>| [o](https://www.overleaf.com/read/???) [c](https://colab.research.google.com/github/multivac61/raf201g/blob/main/ipynb/sympy.ipynb)|
+|<b><a href="ipynb/sympy.ipynb" title="Python og Sympy sýnikennsla">Kennsla í Python og Sympy</a></b>| [c](https://colab.research.google.com/github/multivac61/raf201g/blob/main/ipynb/sympy.ipynb)|
 
 ## Heimadæmi
 
 |Titill|Dæmablað|Lausn|
 |---|---|---|
-|<b><a href="ipynb/hd1.ipynb" title="Undirstöðuatriði, hleðsla, straumur, spenna, fastar viðmiðunarstefnur, lögmál Kirchoff">Heimadæmi 1</a></b>|[d](pdf/hd1.pdf) [o](https://www.overleaf.com/read/cbfvnwqxytdc)| [l](pdf/lausnir/hd1.pdf) [c]()|
+|<b><a href="ipynb/hd1.ipynb" title="Undirstöðuatriði, hleðsla, straumur, spenna, fastar viðmiðunarstefnur, lögmál Kirchoff">Heimadæmi 1</a></b>|[d](pdf/hd1.pdf) [o](https://www.overleaf.com/read/cbfvnwqxytdc)| [l](pdf/lausnir/hd1.pdf) [c](https://colab.research.google.com/github/multivac61/raf201g/blob/main/ipynb/hd1.ipynb)|
 |<b><a href="ipynb/hd2.ipynb" title="Hnútpunktagreining, MNA">Heimadæmi 2</a></b>|[d](pdf/hd2.pdf) [o](https://www.overleaf.com/read/xxbjynwqvrtb)| [l](pdf/lausnir/hd2.pdf) [c]()|
 |<b><a href="ipynb/hd3.ipynb" title="Aðgerðarmagnarar">Heimadæmi 3</a></b>|[d](pdf/hd3.pdf) [o](https://www.overleaf.com/read/tmqwcwgqwwfv)| [l](pdf/lausnir/hd3.pdf) [c]()|
 |<b><a href="ipynb/hd4.ipynb" title="Thévenin og Norton jafngildisrásir">Heimadæmi 4</a></b>|[d](pdf/hd4.pdf) [o](https://www.overleaf.com/read/kyypcgwnhpcb)| [l](pdf/lausnir/hd4.pdf) [c]()|
