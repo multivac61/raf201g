@@ -1,19 +1,39 @@
-<div align="right" style="text-align:right"><i>Ólafur Bjarki Bogason<br>MIT License<br>2021</i></div>
-
-# Greining rása 2021
+# Greining rása
 
 Velkomin á geymslu fyrir námskeiðið [Greiningu rása](https://ugla.hi.is/kennsluskra/index.php?tab=nam&chapter=namskeid&id=08310120210) eins og það var kennt við Háskóla Íslands vetur 2021.
 
+## Fyrirlestranótur
+* Farðu með bendilinn yfir titilinn fyrir frekari útskýringar
+* Smelltu á [titilinn](https://github.com/) til að **skoða** fyrirlestur sem `pdf`
+* Smelltu á <a href="pdf">g</a> til að **skoða** fyrirlestur með glósum og sýnidæmum sem `pdf`
+* Smelltu á [o](https://overleaf.com/) til að **skoða** `tex` á Overleaf
+
+|Titill|Glósur og Overleaf|
+|---|---|
+|<b><a href="pdf/fl1.pdf" title="Straumur, spenna og önnur grundvallaratriði">Grunnhugtök</a></b>| [g](pdf/gl1.pdf) [o](https://www.overleaf.com/read/ddvmwgycyfdw)|
+|<b><a href="pdf/fl2.pdf" title="">Lögmál Kirchhoffs</a></b>| [g](pdf/gl2.pdf) [o](https://www.overleaf.com/read/cskqhhssnkft)|
+|<b><a href="pdf/fl3.pdf" title="">Möskva- og hnútpunktajöfnur</a></b>| [g](pdf/gl3.pdf) [o](https://www.overleaf.com/read/dtmvshfqftqm)|
+|<b><a href="pdf/fl4.pdf" title="Kynnumst einföldum módelum af aðgerðarmögnurum">Aðgerðarmagnarar</a></b>| [g](pdf/gl4.pdf) [o](https://www.overleaf.com/read/5ffdf730f8e87d0daf5e4df8)|
+|<b><a href="pdf/fl5.pdf" title="">Jafngildisrásir</a></b>| [g](pdf/gl5.pdf) [o](https://www.overleaf.com/read/qqgppcfgvndk)|
+|<b><a href="pdf/fl6.pdf" title="">Merki</a></b>| [g](pdf/gl6.pdf) [o](https://www.overleaf.com/read/syykzdmqhyqf)|
+|<b><a href="pdf/fl7.pdf" title="">Orkugeymandi rásaeiningar</a></b>| [g](pdf/gl7.pdf) [o](https://www.overleaf.com/read/stxfjgrgqjqk)|
+|<b><a href="pdf/fl8.pdf" title="Hvað gerist þegar segulflæði úr einni spólu verkar á aðra? Kjörspennar og einföld módel">Tengdar spólur</a></b>| [g](pdf/gl8.pdf) [o](https://www.overleaf.com/read/grrpgzkbfvhc)|
+|<b><a href="pdf/fl9.pdf" title="">Kerfisjöfnur</a></b>| [g](pdf/gl9.pdf) [o](https://www.overleaf.com/read/bdjqmdwdcxfs)|
+|<b><a href="pdf/fl10.pdf" title="">Fyrstu gráðu kerfi</a></b>| [g](pdf/gl10.pdf) [o](https://www.overleaf.com/read/jcftxxrgzcbc)|
+|<b><a href="pdf/fl11.pdf" title="">Annarar gráðu kerfi</a></b>| [g](pdf/gl11.pdf) [o](https://www.overleaf.com/read/mdpkvnzwcvjz)|
+|<b><a href="pdf/fl12.pdf" title="">Kerfi með sínuslaga innmerki</a></b>| [g](pdf/gl12.pdf) [o](https://www.overleaf.com/read/pgkrwhntnhrt)|
+|<b><a href="pdf/fl13.pdf" title="">Aflreikningur fyrir æstæða svörun</a></b>| [g](pdf/gl13.pdf) [o](https://www.overleaf.com/read/hxxbsktrzvws)|
+---
 
 * Smelltu á [titilinn](https://github.com/) til að **lesa** Jupyter notebook á GitHub
 * Farðu með bendilinn yfir titilinn fyrir útskýringu á dæmi
 * Smelltu á <a href="pdf">d</a> til að **skoða** dæmablað sem `pdf`
 * Smelltu á [o](https://overleaf.com/) til að **skoða** dæmablað á Overleaf
 * Smelltu á <a href="pdf/lausnir">l</a> til að **skoða** handskrifaða lausn sem `pdf`
-* Smelltu á [c](https://colab.research.google.com) til að **keyra** notebook á Colab
+* Smelltu á [c](https://colab.research.google.com) til að **keyra** Jupyter vinnubók á Colab
 
 ## Kennsla í `Python` og `Sympy`
-|Titill|Notebook|
+|Titill|Jupyter vinnubók|
 |---|---|
 |<b><a href="ipynb/sympy.ipynb" title="Python og Sympy sýnikennsla">Kennsla í Python og Sympy</a></b>| [c](https://colab.research.google.com/github/multivac61/raf201g/blob/main/ipynb/sympy.ipynb)|
 
