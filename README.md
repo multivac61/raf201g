@@ -1,4 +1,4 @@
-<div style="text-align:right"><i>Ólafur Bjarki Bogason<br>MIT License<br>2021</i></div>
+<div align="right" style="text-align:right"><i>Ólafur Bjarki Bogason<br>MIT License<br>2021</i></div>
 
 # Greining rása 2021
 
